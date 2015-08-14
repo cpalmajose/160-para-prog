@@ -1,0 +1,76 @@
+          CSE 160, Introduction to Parallel Computation
+                            (Spring 2015)
+           Department of Computer Science and Engineering   
+                 University of California, San Diego  
+
+
+    Team Self Evaluation Form, Assignment #2
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A: Chris Almajose
+
+ 
+B: James Keophavone
+
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+                                  A          B
+meetings                          2          2   
+coding                            7          6
+writeup                           2          3
+planning (alone)                  2          2
+total (including meetings)        13        13
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+
+    Chris
+      - Driver for parallel merge
+      - Observer for parallel mergeSort
+      - Created plots
+      - Putting together pdf
+
+    James
+      - Driver for parallel mergeSort
+      - Observer for parallel merge
+      - Ran tests
+      - teameval/Declaration
+
+(b) Did you complete the assignment?
+  Yes
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+    If in a team, also discuss how your team worked together.
+
+    Strengths:
+    - Understanding the problem at hand, really allowed us to implement
+      the solution. The observer really mitigates errors that an
+      individual would normally make if programming solo.
+
+    Weaknesses:
+    - We could have tried more test scenarios.
+
+(d) What  lessons did you learn from these events.
+    - We learned that taking time upfront to plan out our
+      solution saves us time in tne backend (and a lot of
+      headaches).
+
+    - Also, beneficial, is breaking the problem down into manageable sizes,
+      (thinking: at this point in time what is the thread doing).
+    
+(e) If in a team, whether and how you plan to change the way
+    your work together.
+
+    - We would probably break down and spread our sessions when we work
+      together.
+
+(f) Anything else that comes to mind.
+    - None at this time

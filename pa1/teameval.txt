@@ -1,0 +1,74 @@
+            CSE 160, Introduction to Parallel Computation
+                            (Spring 2015)
+           Department of Computer Science and Engineering 	
+                 University of California, San Diego 	
+
+
+		Team Self Evaluation Form, Assignment #1
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A: James Keophavone
+
+ 
+B: Chris Almajose
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	  	          3          3
+coding 	  	  	            3          5
+writeup 	  	  	          3          2 
+planning (alone) 	  	  	  2          3
+total (including meetings) 	11  	  	 13
+
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+    James: Responsible for double checking code and logistical items.
+           Shared brainstorming solution to problem.
+           Implemented correctness of code against correct solution
+
+    Chris: Responsible for translating brainstorming into code.
+           Made critical decisions as to the structure of solution.
+           Decided schedule of meetings and order of working on project.
+
+(b) Did you complete the assignment?
+    Yes
+
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+    If in a team, also discuss how your team worked together.
+
+    Our strengths:
+      - Worked well with each other
+      - Pair programming works in our favor
+      - Efficient once solution was discovered
+      - Understood the problem at hand
+
+    Our weaknesses:
+      - Sluggish start
+      - Need to be able to allocate more time (assuming projects
+          will be more and more difficult)
+
+(d) What  lessons did you learn from these events.
+    Sometimes teams can be very benficial to each member.
+    Time management and team cohesion is key to success and efficiency.
+
+(e) If in a team, whether and how you plan to change the way
+    your work together .
+
+    We plan on meeting more frequently but for less time at each
+    meeting. This would allow us to be able to think separately,
+    thus allowing us to cover more ground when it comes to solutions.
+
+(f) Anything else that comes to mind.
+    None at this moment.
+
